@@ -15,3 +15,6 @@ npm install
 npm run dev
 
 ```
+
+### Video de explicación del proyecto
+https://drive.google.com/drive/folders/1pj-B8MjcnPWn6A6wiAuc6jtPKa4cT7PV?usp=sharing
